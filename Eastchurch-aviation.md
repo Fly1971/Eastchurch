@@ -5,13 +5,11 @@
 <param ve-entity eid="Q2661688" aliases="Eastchurch">
 <param ve-entity eid="Q6538114" aliases="Leysdown-on-Sea|Leysdown">
 <param ve-entity eid="Q7493870" aliases="Shellness">
-
-
-The History of Aviation on the Isle of Sheppey
+<param ve-entity eid="Q1500299" aliases="Isle of Sheppey">
 
 The Isle of Sheppey off the north Kent coast, best known for its dockyard, three prisons and various holiday sites, holds a distinguished place in history for a very different reason.   On this small island in the early 20th century, aviation in Britain was born.   
-
-Early Beginnings
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fc/Isle_of_Sheppey_from_Space_NASA.jpg" label="Isle of Sheppey from Space NASA" attribution="Operational Land Imager, Public domain, via Wikimedia Commons">
+<param ve-map center="Q1500299" zoom="12">
 
 After the Wright Brother’s first powered flight in a heavier-than-air machine on 17th December 1903, at Kitty Hawk, North Carolina, USA, Wilber and Orville Wright continued refining their design working towards achieving controlled, manoeuvrable aircraft capable of sustained flight.  Despite achieving something that would forever alter the course of humanity, at the time the brothers struggled to get commercial interest with both British and American governments failing to see the potential in fixed wing flying.  But a group of fellow pioneers in Britain watched closely as they understood the significance of this breakthrough.  
 
@@ -35,6 +33,12 @@ Founding Fathers picture
 
 With a production team of 80 and Horace’s brilliant engineering mind, the Shorts soon developed their own design and on 30th October JTC Moore-Brabazon achieved another first by becoming the first person in Britain to fly a circular mile in a British-built machine. Moore-Brabazon went on to famously fly carrying a small piglet in a wicker basket, a publicity stunt to jokingly prove that pigs could fly; an act that would probably be disapproved of today but in 1909 it captured the public imagination and highlighted the pioneering spirit of the time.
 
+
+
 Pigs can fly picture
 
 The Wright Brothers visited Shellness again in August and October 1909, by which point the limitations of the site were becoming apparent and an alternative site had been acquired by Frank McClean at Stonepits Farm, Eastchurch, where CS Rolls had already been teaching himself to fly.  The Wright Brothers were taken to see the new more substantial aerodrome and in 1910, all production and flying relocated to Eastchurch, catapulting the site into a hub for pioneers, exploration and innovation, and becoming the centre of British civil and military aviation.  
+
+### References
+
+[^ref1]:
