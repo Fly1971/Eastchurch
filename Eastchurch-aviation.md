@@ -1,3 +1,12 @@
+<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+
+<param ve-config title="The History of Aviation on the Isle of Sheppey" author="Jane Delamaine" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/7/76/The_Wright_Brothers%3B_first_powered_flight_HU98267.jpg">
+
+<param ve-entity eid="Q2661688" aliases="Eastchurch">
+<param ve-entity eid="Q6538114" aliases="Leysdown-on-Sea|Leysdown">
+<param ve-entity eid="Q7493870" aliases="Shellness">
+
+
 The History of Aviation on the Isle of Sheppey
 
 The Isle of Sheppey off the north Kent coast, best known for its dockyard, three prisons and various holiday sites, holds a distinguished place in history for a very different reason.   On this small island in the early 20th century, aviation in Britain was born.   
