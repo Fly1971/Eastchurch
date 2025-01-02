@@ -73,6 +73,17 @@ Eastchurch Aviation Museum was opened in 2015 to preserve and maintain the rich 
 
 The story of aviation on the Isle of Sheppey, from first flights and the daring experiments of the Short Brothers, to the military advancements of two world wars, is a testament to human ingenuity, perseverance, and courage. The island’s contributions have left an indelible mark on the history of flight, and the legacy of the Isle of Sheppey serves as a reminder of the bold steps taken in our quest to conquer the skies.
 
+Brabazon, Lord. The Brabazon Story. London: William Heinemann, 1956.
+
+Britten, Michael D. Flights of Inspiration. Milton Keynes: Author House, 2009.
+
+Croydon C.B.E.  R.A.F. (rted), Bill. Early Birds: A short history of how flight came to Sheppey.  Sheerness: Publicity Matters, date of publication not known.
+
+Hughes, David T. Flying Past: A History of Sheppey Aviation. Gloucestershire: The History Press, 2009.
+
+Landau, Helen. The Birth of British Aviation: Prisoners of Hope. Cheltenham: MG Powell, 2013.
+
+
 
 ### References
 
